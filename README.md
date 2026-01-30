@@ -1,5 +1,6 @@
 
-# Python O(1) Memory cat.py
+# Python O(1) Memory cat.py ![https://github.com/jasmineeliu/lab-cat/actions?query=workflow%3Atests](https://github.com/jasmineeliu/lab-cat/workflows/tests/badge.svg)
+
 
 Instructions:
 
